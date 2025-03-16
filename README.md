@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a41826c7-3c71-4208-bc00-a0ed106a609f)![image](https://github.com/user-attachments/assets/54b9e178-da8f-4f28-b8ed-10e0a2c2532b)# Руководство по рыночной микроструктуре криптовалютного рынка
+# Руководство по рыночной микроструктуре криптовалютного рынка
 
 ## Часть 1: Основы биржевого стакана
 
